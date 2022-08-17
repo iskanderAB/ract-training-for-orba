@@ -3,4 +3,10 @@
     height: 100px;
     width:  100px;
     margin: auto;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color : white;
+   
 }
